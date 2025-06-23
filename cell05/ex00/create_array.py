@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
-text = input("Enter a string: ")
-print(text.swapcase())
+
+arr = [2,8,9,28,8,22,-12,2] 
+print(arr)

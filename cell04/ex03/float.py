@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 number_input = input("Give me a number: ")
-
 try:
     number = float(number_input)
     if number.is_integer():
